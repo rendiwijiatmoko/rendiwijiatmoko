@@ -21,3 +21,4 @@
 [website]: https://rendi.netlify.app
 [instagram]: https://instagram.com/rendiwijiatmoko
 [linkedin]: https://linkedin.com/in/rendiwijiatmoko
+[yot]: https://www.youngontop.com
