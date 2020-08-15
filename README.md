@@ -12,11 +12,7 @@
 
 <br />
 
-<br /> 
-
 ---
-
-<img align="left" alt="rendiwijiatmoko 's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rendiwijiatmoko&show_icons=true&hide_border=true" />
 
 [website]: https://rendi.netlify.app
 [instagram]: https://instagram.com/rendiwijiatmoko
