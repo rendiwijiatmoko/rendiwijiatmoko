@@ -2,7 +2,6 @@
 
 ## I'm a Developer!
 - 🔭 I’m currently working on a [Young On Top][yot]!
-- 🌱 I’m currently learning Data Science
 
 ### Connect with me:
 
